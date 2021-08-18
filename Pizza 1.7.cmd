@@ -27,6 +27,12 @@ cmdMenuSel f870 "New Game" "Load Game"
 if %ERRORLEVEL% == 1 goto pizzainfo
 if %ERRORLEVEL% == 2 goto pizzaloadresponce
 
+:Bruhman
+cls
+echo If you are seeing this message, then you havn't download the CmdMenuSel.exe file. How to use the file: Make a folder and put the game and the file in the same folder. Then, open the game.
+pause
+exit
+
 :pizzaloadresponce
 cls
 echo Alright, let's Load into a Checkpoint. Please enter your Checkpoint code.
