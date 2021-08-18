@@ -11,7 +11,6 @@
 
 
 Thanks for download Pizza [1.7]! Me and my friend worked hard on this, so thanks for downloading this demo!
-If you can please do give us a chat on discord! Here's our Discord: [Redacted]
 I hope you enjoy the demo.
 
 (How to Load Saves)
