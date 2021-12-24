@@ -45,6 +45,7 @@ set checkdrawer2l=1
 set matches=0
 set woodwall=Hit Wall
 set woodwalltext=0
+set 3rdoorunlock=0
 
 :mainstart
 set area=ms
@@ -464,7 +465,6 @@ if "%input%" == "3" goto 3-stairs
 goto 3-right
 
 :3rdoorcheck
-if "%3rdoorunlock%" == "1" goto 4-main
 cls
 echo The door is locked.
 pause
