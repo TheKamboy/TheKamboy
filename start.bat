@@ -465,6 +465,7 @@ if "%input%" == "3" goto 3-stairs
 goto 3-right
 
 :3rdoorcheck
+if "%3rdoorunlock%" == "1" goto 4-main
 cls
 echo The door is locked.
 pause
