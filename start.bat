@@ -445,12 +445,9 @@ echo 1) Yes
 echo 2) No
 echo.
 set /p input=">"
-if "%input%" == "1" (
-set 3rdoorunlock=1
-goto compdesk
-)
+if "%input%" == "1" set 3rdoorunlock=1
 if "%input%" == "2" goto compdesk
-goto compdoor
+goto compdesk
 
 :3-right
 cls
