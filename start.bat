@@ -392,6 +392,7 @@ echo.
 set /p input=">"
 if "%input%" == "1" goto 3fdcomp
 if "%input%" == "2" goto 3fdesk
+goto 3fdcomp2
 
 :compdesk
 cls
@@ -431,7 +432,7 @@ echo.
 echo 1) Exit Notepad
 echo.
 set /p input=">"
-if "%input%" "1" goto compdesk
+if "%input%" == "1" goto compdesk
 goto compnotepad
 
 :compdoor
