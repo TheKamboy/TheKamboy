@@ -260,7 +260,7 @@ if "%input%" == "2" goto 2-right
 goto 2-right
 
 :useexitkey
-if "%2rkey%" == "1" goto useexitkey2
+if "%key%" == "1" goto useexitkey2
 goto noitemin
 
 :useexitkey2
