@@ -86,7 +86,10 @@ if "%input%" == "lockpick" goto uselockpick
 if "%input%" == "phone charger" goto usephonecharger
 if "%input%" == "exit key" goto useexitkey
 if "%input%" == "matches" goto usematches
-if "%input%" == "back" (
+if "%input%" == "back" goto inventoryexit
+goto noitemin
+
+:inventoryexit
 if "%area%" == "ms" goto mainstart
 if "%area%" == "ml" goto mainleft
 if "%area%" == "mr" goto mainright
@@ -96,8 +99,6 @@ if "%area%" == "3f" goto 3-forward
 if "%area%" == "4m" goto 4-main
 if "%area%" == "4m2" goto 4-main2
 if "%area%" == "4lw" goto 4lhitwall
-)
-goto noitemin
 
 :usematches
 if "%matches%" == "0" goto noitemin
