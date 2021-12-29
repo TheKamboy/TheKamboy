@@ -566,6 +566,7 @@ cls
 echo You grab the key, time to backtrack!
 pause
 set keytext=0
+set 2rkey=1
 goto 4lenterwall
 
 :4lnokey
