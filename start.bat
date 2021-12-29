@@ -40,7 +40,7 @@ set phonebat=0
 set lockpick=0
 set charger=0
 set newspaperontable=1
-set 2rkey=0
+set key=0
 set checkdrawer2l=1
 set matches=0
 set woodwall=Hit Wall
@@ -76,7 +76,7 @@ if "%newspaper%" == "1" echo Newspaper
 if "%phone%" == "1" echo Phone
 if "%lockpick%" geq "1" echo Lockpick
 if "%charger%" == "1" echo Phone Charger
-if "%2rkey%" == "1" echo Exit Key
+if "%key%" == "1" echo Exit Key
 if "%matches%" == "1" echo Matches
 echo.
 set /p input=">"
@@ -561,12 +561,12 @@ if "%input%" == "2" goto 4-left
 goto 4lenterwall
 
 :4ltakekey
-if "%2rkey%" == "1" goto 4lnokey
+if "%key%" == "1" goto 4lnokey
 cls
 echo You grab the key, time to backtrack!
 pause
 set keytext=0
-set 2rkey=1
+set key=1
 goto 4lenterwall
 
 :4lnokey
