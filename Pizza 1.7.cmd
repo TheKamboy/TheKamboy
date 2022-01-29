@@ -72,7 +72,7 @@ set quizanswer2=Incorrect
 echo Is Red Sus????????????????????????
 echo.
 cmdMenuSel f870 "YES, RED IS SUS!!!!!!!!!!!!" "No" 
-if %ERRORLEVEL% == 1 set quizanswer1=Correct
+if %ERRORLEVEL% == 1 set quizanswer2=Correct
 if %ERRORLEVEL% == 2 goto pizzaquiz3
 goto pizzaquiz3
 
