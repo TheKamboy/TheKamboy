@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- markdownlint-disable MD013 -->
 
-<!--
-**TheKamboy/TheKamboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome
 
-Here are some ideas to get you started:
+Hello, and welcome to my GitHub Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a teenager trying to learn programming.
+
+I do programming in these languages currently:
+
+- Bash
+- Go
+- C#
+- Java
+- C++
+
+## My Goals 🥅
+
+- [ ] Learn Web Development 💻
+- [ ] Make a Demo for [Ghost Team: Computer Trouble](https://github.com/TheKamboy/gt-computer-trouble) 🔫
