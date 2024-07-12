@@ -18,4 +18,5 @@ I do programming in these languages currently:
 ## My Goals 🥅
 
 - [x] Learn Web Development 💻 (hugo is working well for me so success)
-- [ ] Make a Demo for [Ghost Team: Computer Trouble](https://github.com/TheKamboy/gt-computer-trouble) 🔫
+- [x] Make a Demo for [Ghost Team: Computer Trouble](https://github.com/TheKamboy/gt-computer-trouble) 🔫
+- [ ] Learn FULL Web Development (using bare html and css and js)
