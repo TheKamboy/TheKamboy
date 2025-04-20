@@ -4,7 +4,7 @@
 
 Hello, and welcome to my GitHub Profile!
 
-I am a teenager trying to learn programming.
+I am a trans teenager trying to learn programming.
 
 I do programming in these languages currently:
 
