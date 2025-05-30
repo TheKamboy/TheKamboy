@@ -9,6 +9,7 @@ I am a trans teenager trying to learn programming.
 I do programming in these languages currently:
 
 - Bash
+- Python
 - Go
 - Rust
 - C#
