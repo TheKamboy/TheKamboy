@@ -8,16 +8,23 @@ I am a trans teenager trying to learn programming.
 
 I do programming in these languages currently:
 
-- Bash
 - Python
 - Go
 - Rust
 - C#
-- Java
+
+Other languages that I haven't used in a while:
+
 - C++
+- Java
+- Bash
 
-## My Goals 🥅
+## Configs
 
-- [x] Learn Web Development 💻 (hugo is working well for me so success)
-- [x] Make a Demo for [Ghost Team: Computer Trouble](https://github.com/TheKamboy/gt-computer-trouble) 🔫
-- [ ] Learn FULL Web Development (using bare html and css and js)
+> **last updated**: june 28, 2025
+
+- [Neovim (using NormalNvim)](https://www.github.com/thekamboy/normalnvim)
+
+## Projects
+
+View a list of my projects [here!](./Projects.md)
